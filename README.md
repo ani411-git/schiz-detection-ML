@@ -52,6 +52,15 @@ The following models were implemented and evaluated:
 - Recurrent Neural Networks (RNN)
 - Attention-based architectures
 
+## Final Model Architecture
+
+3D Convolutional Neural Network architecture used for volumetric MRI classification.
+
+![Model Architecture](results/model_architecture.png)
+
+Total Parameters: 22,556,961
+
+
 ## Evaluation Metrics
 
 Model performance was evaluated using:
@@ -74,7 +83,7 @@ Model performance was evaluated using:
 
 ### Training and Validation Curves
 
-![Training Curves](results/training_curves.png)
+![Training Curves](results/training_curves.jpg)
 
 ### Final Model Performance
 
@@ -89,3 +98,15 @@ The model demonstrated high sensitivity for schizophrenia detection, minimizing 
 - Strong classification performance across both classes.
 - No false negatives for schizophrenia cases.
 - Minor overfitting observed in training-validation curves.
+
+
+## Code
+
+Model training and preprocessing scripts:
+
+- [Training Notebook](code/kaggle_notebook.pdf)
+
+
+## Documentation
+
+[Full Project Report](docs/PMHD-19%20%28CBC%29-%20Report%20format%20IEEE%20EMBS%20Student%20Internship%202025%20%281%29.docx)
