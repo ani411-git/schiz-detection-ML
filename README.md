@@ -109,4 +109,4 @@ Model training and preprocessing scripts:
 
 ## Documentation
 
-[Full Project Report](docs/PMHD-19%20%28CBC%29-%20Report%20format%20IEEE%20EMBS%20Student%20Internship%202025%20%281%29.docx)
+[Full Project Report](docs/Schizophrenia_ML_Project_Report.docx)
